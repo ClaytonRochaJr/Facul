@@ -1,0 +1,101 @@
+/* CRIANDO VARIAVEIS PARA AS CORES.*/
+:root{
+  --COR-PRIMARIA: #E3C7D1;
+  --COR-SECUNDARIA: #EAD5DD;
+  --COR-TERCIARIA: #f1e3e8;
+  --COR-QUATRO: #F8F1F4;
+  --COR-CINC: #FFFFFF;
+  --COR-TEXTO: #333; 
+}
+
+body {
+  background-color: var(--COR-QUATRO); /* Azul claro */
+  color: var(--COR-TEXTO);
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+
+}
+
+.app-container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fff; /* Fundo branco */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #ff0000; /* Vermelho vibrante para o título principal */
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.input-container {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 2px solid var(--COR-QUATRO); /* Bordas em vermelho */
+  border-radius: 5px;
+  background-color: var(--COR-QUATRO); /* Fundo suave em tom de vermelho claro */
+}
+
+h2 {
+  color: var(--COR-PRIMARIA); /* Laranja vibrante para os dias da semana */
+  margin-bottom: 10px;
+}
+
+.periodo-container {
+  margin-bottom: 10px;
+  padding: 5px;
+  border: 1px solid var(--COR-PRIMARIA); /* Bordas em vermelho */
+  border-radius: 5px;
+  background-color: var(--COR-PRIMARIA); /* Fundo suave em tom de vermelho */
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+  color: #d9534f; /* Vermelho escuro para os rótulos */
+}
+
+input[type="text"],
+select {
+  width: calc(100% - 110px);
+  padding: 8px;
+  border: 1px solid #333; /* Bordas do campo de texto em vermelho */
+  border-radius: 5px;
+  background-color: var(--COR-CINC); /* Fundo suave no campo de entrada */
+  margin-top: 10px; /*Adicionando espaço entre os componentes */
+}
+
+input[type="text"]:focus,
+select:focus {
+  border-color: #ff6347; /* Realce da borda ao focar */
+  outline: none;
+}
+
+button {
+  background-color: #209600; /* Vermelho */
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin: 10px; /* ESPAÇAMENTO DO BOTÃO VERMELHO*/
+}
+
+button:hover {
+  background-color: #7ae145; /* Vermelho escuro */
+}
+
+h1{
+  color: var(--COR-TEXTO);
+}
+h2{
+  color: var(--COR-TEXTO);
+}
+p{
+  color: var(--COR-TEXTO);
+}
