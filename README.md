@@ -27,9 +27,6 @@ Este repositório contém atividades práticas e anotações feitas durante as a
 
 Este repositório está aberto a contribuições. Caso tenha sugestões ou correções, sinta-se à vontade para abrir uma pull request ou criar uma issue.
 
-## Contato
-
-Se tiver dúvidas ou quiser discutir o conteúdo, entre em contato através do e-mail ou por meio das issues neste repositório.
 
 ---
 
