@@ -16,7 +16,7 @@ Este repositório contém atividades práticas e anotações feitas durante as a
 
 1. Clone este repositório para a sua máquina:
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/ClaytonRochaJr/Facul.git
     ```
    
 2. Navegue pelos diretórios de acordo com o conteúdo que você deseja acessar:
@@ -27,9 +27,6 @@ Este repositório contém atividades práticas e anotações feitas durante as a
 
 Este repositório está aberto a contribuições. Caso tenha sugestões ou correções, sinta-se à vontade para abrir uma pull request ou criar uma issue.
 
-## Contato
-
-Se tiver dúvidas ou quiser discutir o conteúdo, entre em contato através do e-mail ou por meio das issues neste repositório.
 
 ---
 
